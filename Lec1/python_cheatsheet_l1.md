@@ -2,8 +2,8 @@
 
 This cheatsheet is **clean, beginner-friendly explanation** of today's lecture topics.
 
-## print() function
-### :white_check_mark: 1. What is `print()` in Python?
+## 1. print() function
+### :white_check_mark: a. What is `print()` in Python?
 `print()` is a built-in Python function used to display output on the screen.
 
 Example
@@ -16,7 +16,7 @@ Output:
 Hello World
 ```
 ##
-### :white_check_mark: 2. `print()` with Parameters
+### :white_check_mark: b. `print()` with Parameters
 `print()` can take one or more values separated by commas
 
 **Example 1:** Multiple values
@@ -42,7 +42,7 @@ The Indian cricketer Virat Kholi has 53 centuries in ODI cricket
 ```
 Python automatically adds a space between parameters
 ##
-### :white_check_mark: 3. Print with Separator (`sep`)
+### :white_check_mark: c. Print with Separator (`sep`)
 When you print multiple values, Python inserts a **space by default**
 ```python
 print("A", "B", "C")
@@ -60,7 +60,7 @@ Output:
 A-B-C
 ```
 ##
-### :white_check_mark: 4. Printing Number of Times
+### :white_check_mark: d. Printing Number of Times
 You can multiply a string to repeat it.
 Example:
 ```python
