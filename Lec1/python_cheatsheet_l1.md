@@ -38,7 +38,36 @@ print("The Indian cricketer", name, "has", century, "centuries in ODI cricket.")
 
 Output:
 ```nginx
-Current Location: Mumbai
+The Indian cricketer Virat Kholi has 53 centuries in ODI cricket
 ```
 Python automatically adds a space between parameters
 ##
+### :white_check_mark: 3. Print with Separator (`sep`)
+When you print multiple values, Python inserts a **space by default**
+```python
+print("A", "B", "C")
+```
+Output:
+```nginx
+A B C
+```
+You can change the separator using `sep`
+```python
+print("A", "B", "C", sep="-")
+```
+Output:
+```nginx
+A-B-C
+```
+##
+### :white_check_mark: 4. Printing Number of Times
+You can multiply a string to repeat it.
+Example:
+```python
+print("*" * 5)
+```
+
+Output
+```nginx
+*****
+```
