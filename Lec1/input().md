@@ -15,7 +15,7 @@ age = input("Enter your age: ")
 print("You are", age, "years old")
 ```
 ##
-# ✅ 2. Data Types in Python
+# ✅ 2. `Data Types` in Python
 A data type tells Python **what kind of value** a variable is storing.
 ### 📌 Summary Table
 
@@ -30,7 +30,7 @@ A data type tells Python **what kind of value** a variable is storing.
 | `dict`          |	{"a": 1}        |	Key-value pairs |
 | `set`	          | {1, 2, 3}       |	Unique items    |
 ##
-# ✅ 3. type() in Python
+# ✅ 3. `type()` in Python
 `type()` is a built-in Python function used to **check the data type of any variable or value** <br />
 
 **Example:**
@@ -52,4 +52,16 @@ print(type(is_active))
 <class 'int'>
 <class 'float'>
 <class 'bool'>
+```
+##
+# ✅ 4. `len()` in Python
+`len()` is a built-in function that returns the **length**.
+```python
+# with string
+name = "Mahendra Singh Dhoni"
+print(len(name))    # Output: 20
+
+# with list
+fruits = ["apple", "banana", "mango"]
+print(len(fruits))  # Output: 3
 ```
