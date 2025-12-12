@@ -54,8 +54,8 @@ print(type(todos))
 ```
 ##
 
-## :rocket: Understanding
-> [print() Function]()<br />
-> [variables]()<br />
-> [input(), data type, type(), len()]()<br />
-> [list]()<br />
+# :rocket: Further Understanding:
+- [print() function in Python]()<br />
+- [variables in Python]()<br />
+- [input(), data type, type(), len() in Python]()<br />
+- [list in Python]()<br />
