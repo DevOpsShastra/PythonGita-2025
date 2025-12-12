@@ -55,7 +55,7 @@ print(type(todos))
 ##
 
 # :rocket: Further Understanding:
-- [print() function in Python]()<br />
-- [variables in Python]()<br />
-- [input(), data type, type(), len() in Python]()<br />
-- [list in Python]()<br />
+- [print() function in Python](https://github.com/DevOpsShastra/PythonGita-2025/blob/main/Lec1/docs/print().md)<br />
+- [variables in Python](https://github.com/DevOpsShastra/PythonGita-2025/blob/main/Lec1/docs/variable.md)<br />
+- [input(), data type, type(), len() in Python](https://github.com/DevOpsShastra/PythonGita-2025/blob/main/Lec1/docs/input().md)<br />
+- [list in Python](https://github.com/DevOpsShastra/PythonGita-2025/blob/main/Lec1/docs/list.md)<br />
