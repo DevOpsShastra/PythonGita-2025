@@ -1,8 +1,5 @@
-# PYTHON CHEATSHEET - Lecture 1
+# print() Function
 
-This cheatsheet is **clean, beginner-friendly explanation** of today's lecture topics.
-
-## 1. print() function
 ### :white_check_mark: a. What is `print()` in Python?
 `print()` is a built-in Python function used to display output on the screen.
 
