@@ -51,6 +51,7 @@ match choice:
 - Matches it with each `case`
 - Executes the matching block
 - Stops after first match
+##
 ### 🔷 Example 2: Calculator
 ```python
 operation = "+"
@@ -69,6 +70,7 @@ match operation:
 ```
 - Easy to read
 - Easy to add more operations
+##
 ### 🔷 Example 3: Multiple Values in One Case
 ```python
 day = "Saturday"
@@ -82,6 +84,7 @@ match day:
         print("Invalid day")
 ```
 - `|` works like **OR**
+##
 ### 🔷 Example 4: Matching Lists (Pattern Matching)
 ```python
 data = [1, 2]
