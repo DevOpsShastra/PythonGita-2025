@@ -70,5 +70,5 @@ This project helps you understand:
 - Clean decision handling using match-case
 ##
 ## 🔮 Future Understanding
-- match case
-- for loop
+- [match case](https://github.com/DevOpsShastra/PythonGita-2025/blob/main/Lec5/docs/match_case.md)
+- [for loop](https://github.com/DevOpsShastra/PythonGita-2025/blob/main/Lec5/docs/for_loop.md)
